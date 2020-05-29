@@ -1,0 +1,15 @@
+﻿  Swiat.cpp
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(36,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(97,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(101,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(126,37): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(150,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(210,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(217,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(221,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(232,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(291,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(322,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(371,11): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Swiat.cpp(374,12): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  PO_PROJEKT_1v2.vcxproj -> C:\Users\mkucz\source\repos\PO_PROJEKT_1v2\Debug\PO_PROJEKT_1v2.exe
